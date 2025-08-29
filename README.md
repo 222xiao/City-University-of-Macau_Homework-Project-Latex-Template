@@ -3,6 +3,12 @@ This is a **latex template** which you can finish your homework or finial paper 
 
 # Effect Performance
 * Cover
+![Cover Page](cover.png)
+* Contents
+![Contents](contents.png)
+* main text
+![Main Text](main.png)
+
 
 
 
